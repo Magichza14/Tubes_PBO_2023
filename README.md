@@ -1,5 +1,5 @@
 # Lost Princess
-Lost Princess adalah game berbasis 2D yang dikembangkan menggunakan Bahasa pemograman Python dan library PyGame. Game ini menceritakan seorang kesatria yang melawan berbagai musuhnya agar dapat menyelamatkan putri raja yang di culik oleh raja iblis.
+Lost Princess adalah game berbasis 2D yang dikembangkan menggunakan Bahasa pemograman Python dan library PyGame. Game ini menceritakan seorang kesatria yang melawan berbagai musuhnya agar dapat menyelamatkan putri raja yang di culik oleh raja iblis.   
 
 ## Anggota Team
 
