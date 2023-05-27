@@ -6,7 +6,7 @@ class Item(pygame.sprite.Sprite):
         super().__init__()
 
         # atribut yang diperlukan sebagai item
-        self.image = pygame.Surface((size, size))
+        self.image = pygame.Surface((size, size))   
         self.rect = self.image.get_rect(topleft = pos)
 
     # method untuk mengupdate posisi item
