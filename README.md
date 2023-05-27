@@ -4,7 +4,7 @@ Lost Princess adalah game berbasis 2D yang dikembangkan menggunakan Bahasa pemog
 ## Anggota Team
 
 - Ichza Auliya Gumilar  (120140188) 
-- Kasyfi Wahyu Hazazi (121140220)
+- Kasyfi Wahyu Hazazi  (121140220)
 - Adha Putro Wicaksono (121140156)
 - Bima Setiawan Sandi (121140162)
 - M. Shohibul Anam (120140114)
